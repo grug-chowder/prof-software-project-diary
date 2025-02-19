@@ -4,4 +4,4 @@
 2.Started Move From Working Within The Browser To Within Revit
 
 ## Problems In This Session
-1.Revit Does Not Play Nicely With Using Javascript To Include Html Files Within Other Html Files
+1.Revit Does Not Play Nicely With Using Javascript To Include Html Files Within Other Html Files This needs To Be Fixed Before The Rest Of Development Can Continue At Reasonable Pace
