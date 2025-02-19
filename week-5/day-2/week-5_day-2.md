@@ -1,6 +1,6 @@
 # Week 5 day 2
 ## Tasks Completed In The Session
-1.Finished/Polished recent_chats.html 
+1.Finished/Polished recent_chats.html  
 2.Started Move From Working Within The Browser To Within Revit
 
 ## Problems In This Session
