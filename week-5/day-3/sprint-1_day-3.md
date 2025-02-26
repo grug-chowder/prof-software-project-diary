@@ -4,4 +4,4 @@
 2.Additional Fixes and Polish  
 3.Looked into Passing Data Between C# and javascript
 ## Problems In This Session
-1.None
+1.I could not figure out how to Pass Data Between C# and javascript
